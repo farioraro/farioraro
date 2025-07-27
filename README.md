@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Carlos
 
-![farioraro's Stats](https://github-readme-stats.vercel.app/api?username=farioraro&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![farioraro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farioraro&theme=dark&hide_border=false)
-![farioraro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farioraro&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=farioraro&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farioraro&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farioraro&theme=dark&show_icons=true&hide_border=false&layout=compact" />
+</p>
 
 # 👨‍💻 Full-Stack Developer | Software Engineering Student
 
@@ -29,19 +31,19 @@ Hi there! I'm Carlos, a passionate software developer in training with solid exp
 `Git/GitHub` · `Docker` · `Figma` · `Visual Studio Code` · `Notion` · `Trello`
 
 **Creative Tools**  
-🎞️ Adobe Premiere Pro · Photoshop · After Effects
+🎞️ Adobe Premiere Pro 2025 · Adobe Photoshop 2025 · After Effects 2025
 
 ---
 
 ## 🧩 Highlighted Projects
 
-### 🔹 [PeaceApp](https://github.com/farioraro) — Mobile App for Community Safety
+### 🔹 PeaceApp - Mobile App for Community Safety
 🧭 Real-time location · Emergency alerts · Interactive map  
 **Tech Stack:** `KMM`, `Spring Boot`, `OpenStreetMap`, `MySQL`
 
 ---
 
-### 🔹 Financial Management System – Nova Gadgets
+### 🔹 Nova Gadgets - Financial Management System
 💰 Discount Rate Simulation (TDE) · Liquidity optimization for SMEs  
 **Tech Stack:** `Angular`, `Spring Boot`, `MySQL`
 
@@ -49,7 +51,7 @@ Hi there! I'm Carlos, a passionate software developer in training with solid exp
 
 ### 🔹 Contigo Voy – Mental Health Web Platform (at Neonhouseled S.a.C.)
 🧠 Appointment scheduling · User profiles · Secure communication  
-**Contributions:** Full-stack dev, UX analysis with Figma, SEO & performance fixes
+**Contributions:** Full-stack developer, UX analysis with Figma, SEO & performance fixes
 
 ---
 
