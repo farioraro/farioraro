@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Carlos
+# Hi there 🎉, I'm Carlos
+
+A passionate software developer in training with solid experience in both web and mobile development.
+I thrive in agile teams, using methodologies like Scrum and Domain-Driven Design (DDD) to bring ideas to life.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=farioraro&theme=dark&show_icons=true&hide_border=false&count_private=true" />
@@ -6,12 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farioraro&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
-# 👨‍💻 Full-Stack Developer | Software Engineering Student
+## 👨‍💻 Full-Stack Developer | Software Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farioraro/)
 [![GitHub](https://img.shields.io/badge/GitHub-@farioraro-black?logo=github)](https://github.com/farioraro)
-
-Hi there! I'm Carlos, a passionate software developer in training with solid experience in both **web and mobile** development. I’m driven by building scalable, user-centered solutions that make a real social or economic impact. I thrive in agile teams, using methodologies like **Scrum** and **Domain-Driven Design (DDD)** to bring ideas to life.
 
 ---
 
@@ -57,7 +58,7 @@ Hi there! I'm Carlos, a passionate software developer in training with solid exp
 
 ## 🎓 Education
 
-🎓 **Peruvian University of Applied Sciences (UPC)**  
+📜 **Peruvian University of Applied Sciences (UPC)**  
 *B.Sc. in Software Engineering — 9th semester (2023–2026)*
 
 📜 **ICPNA**  
